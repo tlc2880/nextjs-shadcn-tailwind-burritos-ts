@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Breakfast Burrito",
+      "image": "breakfast-burrito.jpg",
+      "time": 20,
+      "description": "A flour tortilla containing bacon or sausage, potatoes, eggs, veggies, and salsa.",
+      "vegan": false
+    },
+    {
+      "id": "2",
+      "title": "Veggie Fiesta Burrito",
+      "image": "fiesta-veggie-burrito.jpg",
+      "time": 25,
+      "description": "A quick and healthy vegetarian seasoned rice, black beans, tomatoes, guacamole, and three-cheese blend.",
+      "vegan": true
+    },
+    {
+      "id": "3",
+      "title": "Wet Burrito",
+      "image": "wet-burrito.jpg",
+      "time": 30,
+      "description": "This burrito has shredded meat, beans, and baked with cheese on top.",
+      "vegan": false
+    },
+    {
+      "id": "4",
+      "title": "Poncho Veggie Burrito",
+      "image": "poncho-burrito.jpg",
+      "time": 40,
+      "description": "A comforting vegetarian stewed or refried beans, salsa, chile, and cheese wrapped in a tortilla.",
+      "vegan": true
+    },
+    {
+      "id": "5",
+      "title": "Chicken Tortilla Soup",
+      "image": "chicken-tortilla-soup.jpg",
+      "time": 35,
+      "description": "Chicken tortilla soup is like a taco in soup form with chunky veggies and shredded chicken.",
+      "vegan": false
+    },
+    {
+      "id": "6",
+      "title": "California Burrito",
+      "image": "california-burrito.jpg",
+      "time": 15,
+      "description": "A taste of California! Cheese, beef, chicken, and blazing hot chillis!",
+      "vegan": false
+    },
+    {
+      "id": "7",
+      "title": "Chimichanga",
+      "image": "chimichanga-burrito.jpg",
+      "time": 30,
+      "description": "Spice lovers we have you covered! Chicken & beef and blazing hot jalapeno peppers!",
+      "vegan": false
+    },
+    {
+      "id": "8",
+      "title": "Chocolate Cookies",
+      "image": "chocolate_cookies.jpg",
+      "time": 15,
+      "description": "Tasty vegetarian chocolate chip cookies that are soft and gooey inside.",
+      "vegan": true
+    },
+    {
+      "id": "9",
+      "title": "Veggie Tacos",
+      "image": "veggie_tacos.jpg",
+      "time": 28,
+      "description": "Homemade vegetarian tacos with seasoned plant-based vegetables and fresh toppings.",
+      "vegan": true
+    }
+  ]
+}
